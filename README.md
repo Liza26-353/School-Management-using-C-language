@@ -1,1 +1,1 @@
-# School-Management-using-C-language
+# Student-Management-using-C-language
